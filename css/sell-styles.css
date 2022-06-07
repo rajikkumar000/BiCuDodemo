@@ -1,0 +1,43 @@
+body {
+  font-family: 'Monserrat', sans-serif;
+}
+
+/* Navbar CSS */
+.navbar {
+  color: #e3f2fd;
+
+}
+
+.nav-item {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#seller-form-banner {
+  margin-top: 3%;
+
+}
+
+#seller-form-banner h1 {
+  margin-bottom: 2%;
+}
+#seller-form-banner .container-fluid {
+  background-color: #73777B;
+  padding: 3%;
+  text-align: center;
+  color: white;
+  margin-bottom: 3%;
+}
+
+.sell-form-field {
+  margin: 4% 0 4%;
+}
+
+.front-cover-form {
+  margin-left: 33.3%;
+}
+
+/* Footer */
+.footer {
+  margin-top: 50%;
+
+}
